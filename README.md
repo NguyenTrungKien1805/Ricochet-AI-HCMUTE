@@ -72,8 +72,8 @@ Yêu cầu máy tính đã cài đặt sẵn Python 3.x.
 
 ## 👥 Đội Ngũ Phát Triển (Nhóm 6)
     1. Phạm Đăng Khoa - 24110256
-    2. Nguyễn Trung Kiên
-    3. Trần Nguyễn Minh Hiếu
+    2. Nguyễn Trung Kiên - 24110263
+    3. Trần Nguyễn Minh Hiếu - 24110212
 
 ---Dự án Báo cáo Cuối kỳ môn Trí tuệ Nhân tạo.---#   R i c o c h e t - A I - H C M U T E 
  
